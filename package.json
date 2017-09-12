@@ -1,0 +1,36 @@
+{
+    "title": "Blog Post",
+    "name": "hunt-blog-html",
+    "version": "4.0.0-beta",
+    "description": "A basic blog post HTML template built with Bootstrap",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://github.com/huntlabs/hunt-blog-html",
+    "bugs": {
+        "url": "https://github.com/huntlabs/hunt-blog-html/issues"
+    },
+    "license": "APACHE-2.0",
+    "author": "HuntLabs",
+    "contributors": [
+        "Brian Zou ( http://zoujiaqing.com/ )"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/huntlabs/hunt-blog-html.git"
+    },
+    "dependencies": {
+        "bootstrap": "^4.0.0-beta",
+        "jquery": "^3.2.1",
+        "popper.js": "1.12.3"
+    },
+    "devDependencies": {
+        "browser-sync": "2.18.13",
+        "gulp": "^3.9.1"
+    }
+}

@@ -1,0 +1,15 @@
+/*!
+ * Hunt Blog Html (https://github.com/huntlabs/hunt-blog-html)
+ * Copyright 2017 HuntLabs
+ * Licensed under Apache-2.0 (https://github.com/huntlabs/hunt-blog-html/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
